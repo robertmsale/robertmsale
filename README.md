@@ -11,10 +11,6 @@ I've always been a hard worker. My entire lineage consists primarily of military
 
 I find a lot of satisfaction in identifying problems and trying to solve them using tech. That's why you're here, that's why I'm here. We're practically the same. You and me, just buds. Imagine that.
 
-## Yes
-
-This is my readme. There are many like it but this one is mine. Without my readme I am nothing. Without me my readme is nothing. 
-
 ## Swift
 
 I like Swift. I love lamp. But in reality, I am fluent in a lot of languages. Most of them human. But if I go to a Mexican restaurant and say `if (me_hungry) { return gib_me_dats(); }` I would get a lot of weird looks. This is why depending on the situation I use the language I need to use in order to accomplish the task I am looking to accomplish. 
